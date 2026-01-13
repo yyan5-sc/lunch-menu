@@ -36,18 +36,32 @@ BASE_URL = "https://{location}.cafebonappetit.com/cafe/{date}/"
 
 # Keywords for categorizing menu items
 MEAT_KEYWORDS = [
+    # General meat
     'beef', 'steak', 'pork', 'bacon', 'ham', 'sausage', 'lamb', 'veal',
     'chicken', 'turkey', 'duck', 'poultry', 'wing', 'thigh', 'breast',
     'ribs', 'brisket', 'meatball', 'burger', 'patty', 'pulled pork',
     'braised beef', 'carnitas', 'chorizo', 'prosciutto', 'pepperoni',
-    'teriyaki chicken', 'fried chicken', 'bbq chicken', 'rotisserie'
+    'teriyaki chicken', 'fried chicken', 'bbq chicken', 'rotisserie',
+    # Korean
+    'bulgogi', 'galbi', 'kalbi', 'korean bbq', 'bibimbap', 'japchae',
+    'dakgalbi', 'samgyeopsal', 'bo ssam', 'bossam',
+    # Japanese
+    'katsu', 'tonkatsu', 'karaage', 'gyudon', 'yakitori', 'teriyaki',
+    'donburi', 'yakiniku', 'chashu', 'nikujaga',
+    # Chinese
+    'char siu', 'mapo', 'kung pao', 'orange chicken', 'general tso',
+    'mongolian beef', 'szechuan', 'sichuan',
+    # Other Asian
+    'satay', 'rendang', 'adobo', 'larb', 'laab'
 ]
 
 SEAFOOD_KEYWORDS = [
     'fish', 'salmon', 'tuna', 'cod', 'tilapia', 'halibut', 'mahi', 'trout',
     'shrimp', 'prawn', 'lobster', 'crab', 'clam', 'mussel', 'oyster', 
     'scallop', 'squid', 'calamari', 'octopus', 'seafood', 'sushi', 'sashimi',
-    'poke', 'ceviche', 'anchovy', 'sardine', 'bass', 'snapper', 'ahi'
+    'poke', 'ceviche', 'anchovy', 'sardine', 'bass', 'snapper', 'ahi',
+    # Asian seafood
+    'unagi', 'eel', 'ikura', 'ebi', 'hotate', 'uni'
 ]
 
 # Non-food items to exclude
