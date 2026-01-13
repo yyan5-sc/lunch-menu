@@ -42,10 +42,10 @@ MEAT_KEYWORDS = [
     'braised beef', 'carnitas', 'chorizo', 'prosciutto', 'pepperoni',
     'teriyaki chicken', 'fried chicken', 'bbq chicken', 'rotisserie',
     'bulgogi', 'galbi', 'kalbi', 'korean bbq', 'bibimbap', 'japchae',
-    'dakgalbi', 'samgyeopsal', 'bo ssam', 'bossam', 'katsu', 'tonkatsu', 
-    'karaage', 'gyudon', 'yakitori', 'teriyaki', 'donburi', 'yakiniku', 
-    'chashu', 'nikujaga', 'char siu', 'mapo', 'kung pao', 'orange chicken', 
-    'general tso', 'mongolian beef', 'szechuan', 'sichuan', 'satay', 'rendang', 
+    'dakgalbi', 'samgyeopsal', 'bo ssam', 'bossam', 'katsu', 'tonkatsu',
+    'karaage', 'gyudon', 'yakitori', 'donburi', 'yakiniku', 'ribeye',
+    'chashu', 'nikujaga', 'char siu', 'mapo', 'kung pao', 'orange chicken',
+    'general tso', 'mongolian beef', 'szechuan', 'sichuan', 'satay', 'rendang',
     'adobo', 'larb', 'laab'
 ]
 
